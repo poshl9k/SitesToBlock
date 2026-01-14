@@ -1,17 +1,17 @@
-127.0.0.1 alsport.kz
-127.0.0.1 rucompromat.eu
-127.0.0.1 acompromat.net
-127.0.0.1 www.ossetia.tv
-127.0.0.1 repost.news
-127.0.0.1 vk.com
-127.0.0.1 xn--80apagidiu.xn--p1acf
-127.0.0.1 in-spi.com
-127.0.0.1 repoct.org
-127.0.0.1 www.votpusk.ru
-127.0.0.1 nebohod.media
-127.0.0.1 compromat.t30p.ru
-127.0.0.1 morkovka.org
-127.0.0.1 life.ru
-127.0.0.1 ratanews.ru
-127.0.0.1 td-partner2.com
-127.0.0.1 nahal-news.com
+alsport.kz
+rucompromat.eu
+acompromat.net
+www.ossetia.tv
+repost.news
+vk.com
+xn--80apagidiu.xn--p1acf
+in-spi.com
+repoct.org
+www.votpusk.ru
+nebohod.media
+compromat.t30p.ru
+morkovka.org
+life.ru
+ratanews.ru
+td-partner2.com
+nahal-news.com
